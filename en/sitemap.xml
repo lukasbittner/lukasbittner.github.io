@@ -63,7 +63,22 @@
   </url>
   
   <url>
-    <loc>/private-securities/</loc>
+    <loc>/tindbook/</loc>
+    <lastmod>2019-02-02T22:18:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/iosec/</loc>
+    <lastmod>2019-02-02T22:18:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/supplychainge/</loc>
+    <lastmod>2019-02-02T22:18:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/upmarrive/</loc>
     <lastmod>2019-02-02T22:18:53+01:00</lastmod>
   </url>
   
