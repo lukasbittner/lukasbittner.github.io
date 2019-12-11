@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-02-02T22:20:01+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-  </url>
-  
-  <url>
     <loc>/product/</loc>
     <lastmod>2019-02-02T22:20:01+01:00</lastmod>
     <xhtml:link
@@ -63,17 +48,12 @@
   </url>
   
   <url>
-    <loc>/tindbook/</loc>
-    <lastmod>2019-02-02T22:18:53+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/iosec/</loc>
-    <lastmod>2019-02-02T22:18:53+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/supplychainge/</loc>
+    <lastmod>2019-02-02T22:18:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tindbook/</loc>
     <lastmod>2019-02-02T22:18:53+01:00</lastmod>
   </url>
   
@@ -83,18 +63,8 @@
   </url>
   
   <url>
-    <loc>/success/</loc>
-    <lastmod>2019-02-02T22:18:52+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/success/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/success/"
-                />
+    <loc>/iosec/</loc>
+    <lastmod>2019-02-02T22:18:53+01:00</lastmod>
   </url>
   
   <url>
@@ -109,21 +79,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/"
-                />
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-    <lastmod>2019-02-02T22:18:52+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
                 />
   </url>
   
@@ -159,20 +114,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/faq/"
                 />
   </url>
   
